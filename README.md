@@ -1,0 +1,10 @@
+- Explore datasets via analyzing uni-variate and multi-variate
+- Handling missing data and outliers
+- One-hot encoding
+- Discretizing numeric features
+- Eliminate constant (duplicate), quasi-constant features
+- Features selection based on ROC-AUC and Random Forest model
+- Select best suit base model
+- Chạy mô hình và đánh giá dự đoán trên tập test, lưu trữ và tái sử dụng mô hình máy học đã trải qua quá trình huấn luyện.
+- Improve above steps to get higher F1 score model
+- Improve form binary classification problem to multi-label classification
